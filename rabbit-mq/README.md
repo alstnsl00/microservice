@@ -3,8 +3,6 @@
 #### 도커로 RabbitMQ 설치 방법
 ```$ docker-compose up```
 
----
-
 ## 설치 후 확인 및 주의사항
 #### 설치 후 웹 UI(관리자 대시보드)는 http://localhost:15672/ 에서 접속
 
