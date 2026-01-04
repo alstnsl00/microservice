@@ -1,4 +1,4 @@
-## RabbitMQ
+# RabbitMQ
 
 #### 도커로 RabbitMQ 설치 방법
 ```$ docker-compose up```
