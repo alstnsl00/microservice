@@ -20,8 +20,6 @@
 
 `$ rabbitmqctl set_permissions -p / admin ".\*" ".\*" ".\*"`
 
-#### 설치 후 brew services list 명령어로 RabbitMQ 서비스가 정상적으로 실행 중인지 확인
-
 ## 기본 설치 패키지
 
 `$ npm i --save amqplib amqp-connection-manager @nestjs/microservices`
