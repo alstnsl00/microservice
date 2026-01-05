@@ -15,7 +15,7 @@ export class AppController implements OnModuleInit {
 
   async onModuleInit() {
     // 응답이 필요한 패턴을 사용할 경우 미리 토픽을 구독해야 함
-    this.client.subscribeToResponseOf('hero.kill.dragon');
+    this.client.subscribeToResponseOf('resp-topic');
     await this.client.connect();
   }
 

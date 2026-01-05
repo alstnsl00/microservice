@@ -15,7 +15,7 @@ import { ClientsModule, Transport } from '@nestjs/microservices';
             brokers: ['localhost:9092'],
           },
           consumer: {
-            groupId: 'my-kafka-consumer', // 컨슈머 그룹 ID
+            groupId: 'my-kafka-producer', // 컨슈머 그룹 ID
           },
         },
       },
