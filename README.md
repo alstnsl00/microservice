@@ -6,6 +6,6 @@
 
 ## Kafka
 
-#### docker-compose.yml 파일을 사용하여 Kafka / Zookeeper / Kafka-UI를 실행
+#### docker-compose.yml 파일을 사용하여 kafka / zookeeper / kafka-ui를 실행
 
 #### consumer와 producer를 실행
